@@ -1,6 +1,10 @@
 # Portfolio — Abdullah Al Mamun
 
-A single-page personal portfolio site for Abdullah Al Mamun, a final-year Computer Science & Engineering student at BUBT (Mirpur, Dhaka) specializing in AI/ML, NLP, and full-stack web development. The site is built around a terminal-style hero section and presents an about summary, technical skills, featured projects (including a thesis project on automatic Bengali meeting-minutes generation), work/education timeline, and a contact form.
+CSE graduate combining technical depth with proven leadership and communication skills.
+Specialized in Python, AI/ML, and full-stack development.
+I design and ship production systems, lead cross-functional teams, and bridge the gap between technical complexity 
+and business needs. 
+Fluent in Bengali and English; thrives in collaborative environments.
 
 ## Tech Stack
 
